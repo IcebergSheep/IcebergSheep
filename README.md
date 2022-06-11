@@ -7,3 +7,8 @@
 - 📫 How to reach me: e-mail
 - 😄 Pronouns: !!!
 - ⚡ Fun fact: !!!
+
+
+뭐하니: [IcebergSheep][github]
+
+[github]:https://github.com/IcebergSheep/Resume
