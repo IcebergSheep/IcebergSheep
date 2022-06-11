@@ -9,6 +9,6 @@
 - ⚡ Fun fact: !!!
 
 
-[뭐하고 살어][github]
+[if you wonder about me more][github]
 
 [github]:https://github.com/IcebergSheep/Resume
