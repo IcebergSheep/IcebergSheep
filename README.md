@@ -8,12 +8,6 @@
 - 😄 Pronouns: !!!
 - ⚡ Fun fact: !!!
 
-### History
-- elementary school : Hoban
-- middle school : Youbong
-- high school : Youbong
-- university : Hallym
-
 [if you wonder about me more][github]
 
 [github]:https://github.com/IcebergSheep/Resume
