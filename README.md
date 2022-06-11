@@ -6,4 +6,4 @@
 - 💬 Ask me about ...?
 - 📫 How to reach me: Look email
 - 😄 Pronouns: 용암고양이
-- ⚡ Fun fact: Last year I was the Guatap
+- ⚡ Fun fact: lol I'm Guatap
