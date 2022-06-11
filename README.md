@@ -9,6 +9,6 @@
 - ⚡ Fun fact: !!!
 
 
-뭐하니: [IcebergSheep][github]
+[뭐하고 살어][github]
 
 [github]:https://github.com/IcebergSheep/Resume
