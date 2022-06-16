@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: e-mail
-- 😄 Pronouns: 
+- 😄 Pronouns: LavaCat
 - ⚡ Fun fact: !!!
 
 [if you wonder about me more][github]
